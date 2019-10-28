@@ -1,0 +1,121 @@
+/* ========================= */
+/* ======= CSS Start ======= */
+/* ========================= */
+
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* ========================= */
+/* ==== Header Section ===== */
+
+header{
+  background: linear-gradient(to right, #00867d, #0090a0);
+  width: 100%;
+  padding: 0.2rem 0;
+}
+.navbar{
+  width: 100%;
+}
+.navbar .navbar-toggler-icon{
+  background: #eee;
+}
+.navbar-brand img
+.navbar-nav{}
+.nav-item{
+  margin-left: 0.5rem;
+}
+.nav-item .btn-sign{
+  background: #00c29e;
+  border: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.nav-item a{
+  color: #fff !important;
+}
+.nav-item a:hover{
+  color: #bbb !important;
+}
+
+/* ========================= */
+/* ==== Banner Section ===== */
+
+.banner-area{
+  background: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(../img/banner-bg.png) no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.banner-area .row{
+  min-height: 90vh;
+}
+.banner-area button{}
+.banner-area h1{
+  color: #fff;
+  font-weight: 500;
+}
+.banner-area .heading{
+  font-weight: 300;
+}
+.btn-x{
+  color: #fff;
+  border: 1px solid #fff;
+  margin: 3rem 0.3rem;
+}
+.btn-x:hover{
+  background: #008f9e;
+  border: 1px solid #008f9e;
+}
+
+/* ========================= */
+/* ==== Delivary Section === */
+
+.delivary-area{
+  background: #e9e9e9;
+  padding: 5rem 0;
+}
+.delivary-area h2{
+  color: #222;
+  font-size: 2.2rem;
+  margin-bottom: 1.8rem;
+}
+.delivary-area .line-del{
+  border-top: 1px solid #333;
+  margin: 1rem;
+}
+.delivary-area p{
+  margin-bottom: 4.5rem;
+  font-size: 1.1rem;
+}
+.delivary-area .card{
+  text-align: center;
+  background: #fff;
+  height: 27rem;
+}
+.card .img-iconx{
+  width: 40%;
+  margin: 1rem 0;
+
+}
+.delivary-area
+.delivary-area
+.delivary-area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+......
