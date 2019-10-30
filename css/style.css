@@ -24,8 +24,9 @@ header{
 .navbar{
   width: 100%;
 }
-.navbar .navbar-toggler-icon{
-  background: #eee;
+.navbar .fa-bars{
+  color: #fff;
+  font-size: 2rem;
 }
 .navbar-brand img
 .navbar-nav{}
